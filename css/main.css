@@ -30,7 +30,6 @@ body, html {
     font-family: raleway_m, sans-serif;
     overflow: hidden;
     line-height: 1.8;
-    /* font-size: calc(var(--index) * 1.8); */
 }
 
 .slider {
